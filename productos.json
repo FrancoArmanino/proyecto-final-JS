@@ -1,0 +1,182 @@
+[ 
+  {
+      "id":"abrigo-01",
+      "titulo":"Campera invierno azul oscura",
+      "imagen":"./img/abrigos/01.jpg",
+      "categoria":{
+        "nombre":"Abrigos",
+        "id":"abrigos"
+      },
+      "precio":25000
+    },
+    {
+      "id":"abrigo-02",
+      "titulo":"Saco con cierre azul oscuro",
+      "imagen":"./img/abrigos/02.jpg",
+      "categoria":{
+        "nombre":"Abrigos",
+        "id":"abrigos"
+      },
+      "precio":16700
+    },
+    {
+      "id":"abrigo-03",
+      "titulo":"Saco con Polar interior gris",
+      "imagen":"./img/abrigos/03.jpg",
+      "categoria":{
+        "nombre":"Abrigos",
+        "id":"abrigos"
+      },
+      "precio":11670
+    },
+    {
+      "id":"abrigo-04",
+      "titulo":"Campera invirno negra",
+      "imagen":"./img/abrigos/04.jpg",
+      "categoria":{
+        "nombre":"Abrigos",
+        "id":"abrigos"
+      },
+      "precio":14000
+    },
+    {
+      "id":"abrigo-05",
+      "titulo":"Buzo deportivo negro",
+      "imagen":"./img/abrigos/05.jpg",
+      "categoria":{
+        "nombre":"Abrigos",
+        "id":"abrigos"
+      },
+      "precio":9000
+    },
+    {
+      "id":"camiseta-01",
+      "titulo":"Remera MC azul oscura",
+      "imagen":"./img/camisetas/01.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":11000
+    },
+    {
+      "id":"camiseta-02",
+      "titulo":"Remera estampada Tropic",
+      "imagen":"./img/camisetas/02.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":10500
+    },
+    {
+      "id":"camiseta-03",
+      "titulo":"Remera estamapda Salty Water",
+      "imagen":"./img/camisetas/03.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":10500
+    },
+    {
+      "id":"camiseta-04",
+      "titulo":"Remera MC roja",
+      "imagen":"./img/camisetas/04.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":9000
+    },
+    {
+      "id":"camiseta-05",
+      "titulo":"Remera MC escote en V gris",
+      "imagen":"./img/camisetas/05.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":9300
+    },
+    {
+      "id":"camiseta-06",
+      "titulo":"Remera MC rosa",
+      "imagen":"./img/camisetas/06.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":9000
+    },
+    {
+      "id":"camiseta-07",
+      "titulo":"Remera MC verde",
+      "imagen":"./img/camisetas/07.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":9000
+    },
+    {
+      "id":"camiseta-08",
+      "titulo":"Remera MC celeste",
+      "imagen":"./img/camisetas/08.jpg",
+      "categoria":{
+        "nombre":"Remeras",
+        "id":"camisetas"
+      },
+      "precio":9000
+    },
+    {
+      "id":"pantalon-01",
+      "titulo":"Pantalon algodon beige",
+      "imagen":"./img/pantalones/01.jpg",
+      "categoria":{
+        "nombre":"Pantalones",
+        "id":"pantalones"
+      },
+      "precio":19700
+    },
+    {
+      "id":"pantalon-02",
+      "titulo":"Pantalón algodon blanco",
+      "imagen":"./img/pantalones/02.jpg",
+      "categoria":{
+        "nombre":"Pantalones",
+        "id":"pantalones"
+      },
+      "precio":17000
+    },
+    {
+      "id":"pantalon-03",
+      "titulo":"Pantalón chupin negro",
+      "imagen":"./img/pantalones/03.jpg",
+      "categoria":{
+        "nombre":"Pantalones",
+        "id":"pantalones"
+      },
+      "precio":16900
+    },
+    {
+      "id":"pantalon-04",
+      "titulo":"Pantalón de vestir negro",
+      "imagen":"./img/pantalones/04.jpg",
+      "categoria":{
+        "nombre":"Pantalones",
+        "id":"pantalones"
+      },
+      "precio":20700
+    },
+    {
+      "id":"pantalon-05",
+      "titulo":"Pantalón algodon gris",
+      "imagen":"./img/pantalones/05.jpg",
+      "categoria":{
+        "nombre":"Pantalones",
+        "id":"pantalones"
+      },
+      "precio":12900
+    }
+  ]
